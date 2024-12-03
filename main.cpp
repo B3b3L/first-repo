@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "B3b3L second commit" << endl;
+	cout << "Bb" << endl;
 	return 0;
 }
